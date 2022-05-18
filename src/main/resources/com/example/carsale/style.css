@@ -1,0 +1,29 @@
+.car-inner {
+    -fx-margin: 5px;
+}
+
+.car-info {
+    -fx-padding: 10px;
+
+    width: 180px;
+
+    -fx-min-width: width;
+    -fx-max-width: width;
+}
+
+.car-title {
+    -fx-font-size: 18px;
+    -fx-cursor: hand;
+}
+
+.car-desc {
+    -fx-padding: 5px 0 5px 0;
+}
+
+.car-price {
+    -fx-font-weight: 700;
+}
+
+.back_link {
+    -fx-cursor: hand;
+}
